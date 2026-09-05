@@ -1,0 +1,16 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Caches compilados
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Dados voláteis e saídas em runtime
+data/relatorio.json
+web/assets/*.png
